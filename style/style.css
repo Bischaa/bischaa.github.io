@@ -1,0 +1,71 @@
+body {
+    background: white;
+}
+
+table {
+    margin: 0 auto;
+}
+
+.cell {
+    height: 100px;
+    width: 100px;
+    background-color: darkgrey;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.color-2 {
+    background-color: yellow;
+}
+
+.color-4 {
+    background-color: orange;
+}
+
+.color-8 {
+    background-color: darkorange;
+}
+
+.color-16 {
+    background-color: coral;
+}
+
+.color-32 {
+    background-color: orangered;
+}
+
+.color-64 {
+    background-color: red;
+}
+
+.color-128 {
+    background-color: darkred;
+}
+
+.color-256 {
+    background-color: brown;
+}
+
+.color-512 {
+    background-color: firebrick;
+}
+
+.color-1024 {
+    background-color: saddlebrown;
+}
+
+.color-2048 {
+    background-color: purple;
+}
+
+.number {
+    color: black;
+    font-size: 35px;
+}
+
+.movements {
+    text-align: center;
+    margin-bottom: 20px;
+}
